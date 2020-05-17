@@ -1,0 +1,36 @@
+body{
+    background-image:url("https://lh3.googleusercontent.com/flF_ioiDZ4nyWgYppkyQjfT1DdXTGMuo32fHljLpfu-fzZjxDHWRPuVYTOY0uXnp761fMNyENfBnE6lJPWrMq44v8KWruyaMn-zI78dBoUmRLJxc9fxnA8C8tjOTFFPeIaMt9U9f25egrzNI-BYi825lo2Ylv2AIenmEUEzAT-mdRB79ULWZLrI062JNT8D-ZXdXJDTMtR7OxVQitd1p5ZlvgJ9o_KErZ3s6TdYnjzA1mm2jMowdlaCEjN5VsyVfjlBZdDyXRSjtCORLf30ewapziur2BXZS80GiOSOxuLChTeduHjR-_EHKUzTwUWDH2h6f6o2biZStV7FLWSW-68nouIXiy86rvetcW8f-67g-ulkmvsS5IUG0wMSVuK0CbPjjanaCpaWbHrlUmby5NBzhUjCGDrbEq2fccfDirLUGoKT-8YlVjMPA6Z9rlND8Qn7vzJUeEWfVSonnMdA79wj4XOxfBuO4p1Xe829Faz5MkOSQnRmP9C4xJOYXEyA59Vf9ZvqNwEQvhMJsaxL6vOFud_08TtLOzy-hl3U71cTxVcY-qdMhoy5bYtpy2Y6cC96Ce7IVWaNSBILwoKzrb34tX6iTRTAwImGbTWCgxZkGUHukhABbj08ONn-scZXnaWqF2-3wCBwuNWeWC5r2AZB9hCUEXVYpPcNos-bu2szPJterdo2YcdDHMIdCguc=w876-h657-no?authuser=0");
+    background-size:auto 100vh;
+    font-family:impact;
+    height:100vh;
+  }
+  
+  .menu {
+    background-color:white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content:space-around;
+  }
+  
+  .menu li{
+    list-style: none;
+  }
+  a {
+    text-decoration: none;
+    color:blue;
+  }
+  
+  a:hover{
+    text-decoration:underline:
+  }
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  site-subtitle{
+    font-style: italic;
+  }
